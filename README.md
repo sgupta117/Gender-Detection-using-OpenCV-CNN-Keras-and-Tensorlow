@@ -3,3 +3,4 @@
 Dataset link: https://www.kaggle.com/gmlmrinalini/genderdetectionface
 
  To run the file to detect the faces and identify the gender use: ```python detect_gender_webcam.py```
+ Use ```python train.py``` to train the model.
